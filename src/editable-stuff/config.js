@@ -9,29 +9,29 @@ const mainBody = {
   firstName: "Malsha",
   middleName: "",
   lastName: "Kodagoda",
-  message: "  Designer | Developer | Editor and Passionate about changing the world with technology. ",
-  message2:"Passionate about changing the world with technology.",
+  message: "  Designer | Web Developer | Editor | Programmer | Engineer ",
+  // message2:"Passionate about changing the world with technology.",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/Malsha9886",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/malsha.kodagoda.9",
     },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
-    {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+    // {
+    //   image: "fa-instagram",
+    //   url: "https://www.instagram.com/hashirshoaeb/",
+    // },
+    // {
+    //   image: "fa-linkedin",
+    //   url: "https://www.linkedin.com/in/hashirshoaeb/",
+    // },
+    // {
+    //   image: "fa-twitter",
+    //   url: "https://www.twitter.com/hashirshoaeb/",
+    // },
   ],
 };
 
@@ -52,11 +52,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/sub.png"),
+  imageLink: require("../editable-stuff/ISHU.png"),
   imageSize: 375,
   message:
     "Hi. I am Malsha Kodagoda. I am a third-year student at Sri Jayewardenepura University. My Bachelor of Arts degree in Information and Communication Technology. I have already done a few projects.I am a very practical and work-hard person with an amiable disposition and strong cultural values. Istrongly believe in accuracy and precision in whatever I do. I do believe that I work positively with good communication and interpersonal skills. I am flexible and have the ability to adapt to changing situations while being willing to work beyond normal working hours if necessary. This is a good opportunity to use my talents and abilities to achieve the company's goals and objectives.so I like to join you and show my talent to you",
-  // resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1EyDhTGtaidjJxVDWIgi7dsuVQUSkGXLc/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -77,33 +77,33 @@ const leadership = {
   show: true,
   heading: " Educational Qulification",
   message:
-    "Hi. I am Malsha Kodagoda. I am a third-year student at Sri Jayewardenepura University. My Bachelor of Arts degree in Information and Communication Technology.By the time I graduated, I am very talented computer programming languages ​​such as Java and Python and also completed projects such as mobile application projects. I have already done a few projects.I am a very practical and work-hard person with an amiable disposition and strong cultural values. Istrongly believe in accuracy and precision in whatever I do. I do believe that I work positively with good communication and interpersonal skills. I am flexible and have the ability to adapt to changing situations while being willing to work beyond normal working hours if necessary. This is a good opportunity to use my talents and abilities to achieve the company's goals and objectives.so I like to join you and show my talent to you",
+    "I am Malsha Kodagoda and third-year student at Sri Jayewardenepura University. My Bachelor of Special degree in Information and Communication Technology.By the time I  Undergraduated, I am very talented computer programming languages ​​such as Java and Python and also completed projects such as mobile application projects. I have already done a few projects.",
   images: [
     { 
-      img: require("../assets/img/dev.png"), 
-      label: "Web Developer", 
+      img: require("../assets/img/mobileapp.png"), 
+      // label: "Web Developer", 
       // paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../assets/img/design.png"), 
-      label: "Creative Designer", 
+      img: require("../assets/img/webApp.png"), 
+      // label: "Creative Designer", 
       // paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../assets/img/video.png"), 
-      label: "Video Editor", 
+      img: require("../assets/img/logos.png"), 
+      // label: "Video Editor", 
       // paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../assets/img/mobile.png"), 
-      label: "Mobile Application Developer", 
+      img: require("../assets/img/softwareApp.png"), 
+      // label: "Mobile Application Developer", 
       // paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
-    { 
-      img: require("../assets/img/grapic.png"), 
-      label: "Grapic Designer", 
-      // paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
+    // { 
+    //   img: require("../assets/img/grapic.png"), 
+    //   label: "Grapic Designer", 
+    //   // paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    // },
   ],
   imageSize: {
     width:"615",
@@ -148,7 +148,7 @@ const getInTouch = {
 
 const experiences = {
   show: true,
-  heading: "Work Experiences",
+  heading: "Work Experiences and Services",
   data: [
     {
       role: 'Associate Image Processing',// Here Add Company Name
@@ -159,6 +159,16 @@ const experiences = {
       // role: 'Front-End Developer',
       // companylogo: require('../assets/img/boeing.png'),
       date: ' I am also talented Desing and development web sites.i also use in MERN structure for this task.And i have konweladge about HTML,CSS,and JavaScript.but I am very interrest React.My Bachelor of Arts degree in Information and Communication Technology.By the time I graduated, I am very talented computer programming languages ​​such as Java and Python and also completed projects such as mobile application projects.',
+    },
+    {
+      role: 'Front-End Developer',
+      // companylogo: require('../assets/img/boeing.png'),
+      date: ' I also have knowledge about the development of web applications and mobile applications using MERN Stack and React native. I am very familiar with react js. it is very flexible to succeed my task.So, I am always ready to help your work using my talent. ',
+    },
+    {
+      role: 'UI/UX Designer',
+      // companylogo: require('../assets/img/boeing.png'),
+      date: ' I am very interested in UI/UX Designer. also I am familiar with Figma, Adobe XD. I am always ready for the UI/Ux Design for your website and mobile app interfaces that help to get a unique and eye-catching look.I am always ready to help your work using my talent. ',
     },
 
 

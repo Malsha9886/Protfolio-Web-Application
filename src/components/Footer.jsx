@@ -16,7 +16,7 @@ const Footer = (props) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/hashirshoaeb"
+          href="https://github.com/Malsha9886"
           aria-label="My GitHub"
         >
           Malsha Kodagoda
